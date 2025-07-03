@@ -1,5 +1,6 @@
 ﻿using CinemaApp.Data;
 using CinemaApp.Data.Models;
+using CinemaApp.Data.Repository.Interfaces;
 using CinemaApp.Services.Core.Interfaces;
 using CinemaApp.Web.ViewModels.Watchlist;
 using Microsoft.EntityFrameworkCore;
@@ -9,10 +10,12 @@ namespace CinemaApp.Services.Core
 {
     public class WatchlistService : IWatchlistService
     {
+        private readonly IWatchlistRepository watchlistRepository;
         private readonly CinemaAppDbContext dbContext;
 
-        public WatchlistService(CinemaAppDbContext dbContext)
+        public WatchlistService(IWatchlistRepository watchlistRepository,CinemaAppDbContext dbContext)
         {
+            this.watchlistRepository = watchlistRepository;
             this.dbContext = dbContext;
         }
 
