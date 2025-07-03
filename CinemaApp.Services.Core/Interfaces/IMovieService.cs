@@ -9,6 +9,8 @@
 
         //покажи детайлите за филма по ид-то
         Task<MovieDetailsViewModel> GetMovieDetailsByIdAsync(string? id);
+
+
         Task<MovieFormInputModel?> GetEditableMovieByIdAsync(string? id);
 
         Task<bool> EditMovieAsync(MovieFormInputModel inputModel);

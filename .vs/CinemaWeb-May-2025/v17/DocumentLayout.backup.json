@@ -3,68 +3,92 @@
   "WorkspaceRootPath": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|solutionrelative:cinemaapp\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{737FCBAF-0C43-442A-8766-DED1901E84B0}|CinemaApp.Data\\CinemaApp.Data.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp.data\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737FCBAF-0C43-442A-8766-DED1901E84B0}|CinemaApp.Data\\CinemaApp.Data.csproj|solutionrelative:cinemaapp.data\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|solutionrelative:cinemaapp\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{737FCBAF-0C43-442A-8766-DED1901E84B0}|CinemaApp.Data\\CinemaApp.Data.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp.data\\repository\\interfaces\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737FCBAF-0C43-442A-8766-DED1901E84B0}|CinemaApp.Data\\CinemaApp.Data.csproj|solutionrelative:cinemaapp.data\\repository\\interfaces\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9D77A74-05B7-4F4F-BB89-E20CBAB4780F}|CinemaApp.Web.ViewModels\\CinemaApp.Web.ViewModels.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp.web.viewmodels\\movie\\allmoviesindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9D77A74-05B7-4F4F-BB89-E20CBAB4780F}|CinemaApp.Web.ViewModels\\CinemaApp.Web.ViewModels.csproj|solutionrelative:cinemaapp.web.viewmodels\\movie\\allmoviesindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp\\controllers\\watchlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|solutionrelative:cinemaapp\\controllers\\watchlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D43F673-5AC2-8B0E-BD2C-5A1B4BE66A47}|CinemaApp.Services.Core\\CinemaApp.Services.Core.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp.services.core\\watchlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D43F673-5AC2-8B0E-BD2C-5A1B4BE66A47}|CinemaApp.Services.Core\\CinemaApp.Services.Core.csproj|solutionrelative:cinemaapp.services.core\\watchlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D43F673-5AC2-8B0E-BD2C-5A1B4BE66A47}|CinemaApp.Services.Core\\CinemaApp.Services.Core.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp.services.core\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D43F673-5AC2-8B0E-BD2C-5A1B4BE66A47}|CinemaApp.Services.Core\\CinemaApp.Services.Core.csproj|solutionrelative:cinemaapp.services.core\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|solutionrelative:cinemaapp\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9D77A74-05B7-4F4F-BB89-E20CBAB4780F}|CinemaApp.Web.ViewModels\\CinemaApp.Web.ViewModels.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp.web.viewmodels\\watchlist\\watchlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9D77A74-05B7-4F4F-BB89-E20CBAB4780F}|CinemaApp.Web.ViewModels\\CinemaApp.Web.ViewModels.csproj|solutionrelative:cinemaapp.web.viewmodels\\watchlist\\watchlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp\\views\\watchlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|solutionrelative:cinemaapp\\views\\watchlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp\\views\\movie\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|solutionrelative:cinemaapp\\views\\movie\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp\\views\\movie\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|solutionrelative:cinemaapp\\views\\movie\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp\\views\\movie\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|solutionrelative:cinemaapp\\views\\movie\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D43F673-5AC2-8B0E-BD2C-5A1B4BE66A47}|CinemaApp.Services.Core\\CinemaApp.Services.Core.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp.services.core\\interfaces\\iwatchlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D43F673-5AC2-8B0E-BD2C-5A1B4BE66A47}|CinemaApp.Services.Core\\CinemaApp.Services.Core.csproj|solutionrelative:cinemaapp.services.core\\interfaces\\iwatchlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|solutionrelative:cinemaapp\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{737FCBAF-0C43-442A-8766-DED1901E84B0}|CinemaApp.Data\\CinemaApp.Data.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp.data\\repository\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737FCBAF-0C43-442A-8766-DED1901E84B0}|CinemaApp.Data\\CinemaApp.Data.csproj|solutionrelative:cinemaapp.data\\repository\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|solutionrelative:cinemaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|solutionrelative:cinemaapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{737FCBAF-0C43-442A-8766-DED1901E84B0}|CinemaApp.Data\\CinemaApp.Data.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp.data\\repository\\watchlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737FCBAF-0C43-442A-8766-DED1901E84B0}|CinemaApp.Data\\CinemaApp.Data.csproj|solutionrelative:cinemaapp.data\\repository\\watchlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737FCBAF-0C43-442A-8766-DED1901E84B0}|CinemaApp.Data\\CinemaApp.Data.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp.data\\repository\\interfaces\\iwatchlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737FCBAF-0C43-442A-8766-DED1901E84B0}|CinemaApp.Data\\CinemaApp.Data.csproj|solutionrelative:cinemaapp.data\\repository\\interfaces\\iwatchlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737FCBAF-0C43-442A-8766-DED1901E84B0}|CinemaApp.Data\\CinemaApp.Data.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp.data\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737FCBAF-0C43-442A-8766-DED1901E84B0}|CinemaApp.Data\\CinemaApp.Data.csproj|solutionrelative:cinemaapp.data\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737FCBAF-0C43-442A-8766-DED1901E84B0}|CinemaApp.Data\\CinemaApp.Data.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp.data\\repository\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737FCBAF-0C43-442A-8766-DED1901E84B0}|CinemaApp.Data\\CinemaApp.Data.csproj|solutionrelative:cinemaapp.data\\repository\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6111C96-2B3A-47DA-9C81-9F3EE95B714B}|CinemaApp.Data.Common\\CinemaApp.Data.Common.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp.data.common\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6111C96-2B3A-47DA-9C81-9F3EE95B714B}|CinemaApp.Data.Common\\CinemaApp.Data.Common.csproj|solutionrelative:cinemaapp.data.common\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD1F1DF-3F4F-432E-9BBF-1277081197F6}|CinemaApp.GCommon\\CinemaApp.GCommon.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp.gcommon\\applicationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD1F1DF-3F4F-432E-9BBF-1277081197F6}|CinemaApp.GCommon\\CinemaApp.GCommon.csproj|solutionrelative:cinemaapp.gcommon\\applicationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|solutionrelative:cinemaapp\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|solutionrelative:cinemaapp\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D43F673-5AC2-8B0E-BD2C-5A1B4BE66A47}|CinemaApp.Services.Core\\CinemaApp.Services.Core.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp.services.core\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D43F673-5AC2-8B0E-BD2C-5A1B4BE66A47}|CinemaApp.Services.Core\\CinemaApp.Services.Core.csproj|solutionrelative:cinemaapp.services.core\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D43F673-5AC2-8B0E-BD2C-5A1B4BE66A47}|CinemaApp.Services.Core\\CinemaApp.Services.Core.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp.services.core\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D43F673-5AC2-8B0E-BD2C-5A1B4BE66A47}|CinemaApp.Services.Core\\CinemaApp.Services.Core.csproj|solutionrelative:cinemaapp.services.core\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D77A74-05B7-4F4F-BB89-E20CBAB4780F}|CinemaApp.Web.ViewModels\\CinemaApp.Web.ViewModels.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp.web.viewmodels\\movie\\movieforminputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D77A74-05B7-4F4F-BB89-E20CBAB4780F}|CinemaApp.Web.ViewModels\\CinemaApp.Web.ViewModels.csproj|solutionrelative:cinemaapp.web.viewmodels\\movie\\movieforminputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD1F1DF-3F4F-432E-9BBF-1277081197F6}|CinemaApp.GCommon\\CinemaApp.GCommon.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp.gcommon\\cinemaapp.gcommon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7DD1F1DF-3F4F-432E-9BBF-1277081197F6}|CinemaApp.GCommon\\CinemaApp.GCommon.csproj|solutionrelative:cinemaapp.gcommon\\cinemaapp.gcommon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|solutionrelative:cinemaapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|solutionrelative:cinemaapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|solutionrelative:cinemaapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|solutionrelative:cinemaapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|solutionrelative:cinemaapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|c:\\users\\stefa\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\softuni\\web\\asp.net core introduction\\cinemaapp2025\\cinemaapp\\wwwroot\\images\\cinema-panoramic-megeve.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|solutionrelative:cinemaapp\\wwwroot\\images\\cinema-panoramic-megeve.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,211 +102,278 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AllMoviesIndexViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Web.ViewModels\\Movie\\AllMoviesIndexViewModel.cs",
-              "RelativeDocumentMoniker": "CinemaApp.Web.ViewModels\\Movie\\AllMoviesIndexViewModel.cs",
-              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Web.ViewModels\\Movie\\AllMoviesIndexViewModel.cs*",
-              "RelativeToolTip": "CinemaApp.Web.ViewModels\\Movie\\AllMoviesIndexViewModel.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T11:20:00.875Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MovieService.cs",
-              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Services.Core\\MovieService.cs",
-              "RelativeDocumentMoniker": "CinemaApp.Services.Core\\MovieService.cs",
-              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Services.Core\\MovieService.cs",
-              "RelativeToolTip": "CinemaApp.Services.Core\\MovieService.cs",
-              "ViewState": "AgIAAG4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T11:01:01.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "WatchlistViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Web.ViewModels\\Watchlist\\WatchlistViewModel.cs",
-              "RelativeDocumentMoniker": "CinemaApp.Web.ViewModels\\Watchlist\\WatchlistViewModel.cs",
-              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Web.ViewModels\\Watchlist\\WatchlistViewModel.cs",
-              "RelativeToolTip": "CinemaApp.Web.ViewModels\\Watchlist\\WatchlistViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T11:16:04.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\Views\\Movie\\Edit.cshtml",
-              "RelativeDocumentMoniker": "CinemaApp\\Views\\Movie\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\Views\\Movie\\Edit.cshtml",
-              "RelativeToolTip": "CinemaApp\\Views\\Movie\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-14T11:15:28.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\Views\\Movie\\Index.cshtml",
-              "RelativeDocumentMoniker": "CinemaApp\\Views\\Movie\\Index.cshtml",
-              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\Views\\Movie\\Index.cshtml*",
-              "RelativeToolTip": "CinemaApp\\Views\\Movie\\Index.cshtml*",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-14T10:42:57.072Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WatchlistService.cs",
-              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Services.Core\\WatchlistService.cs",
-              "RelativeDocumentMoniker": "CinemaApp.Services.Core\\WatchlistService.cs",
-              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Services.Core\\WatchlistService.cs",
-              "RelativeToolTip": "CinemaApp.Services.Core\\WatchlistService.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAiwGQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T09:27:22.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MovieController.cs",
-              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\Controllers\\MovieController.cs",
-              "RelativeDocumentMoniker": "CinemaApp\\Controllers\\MovieController.cs",
-              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\Controllers\\MovieController.cs*",
-              "RelativeToolTip": "CinemaApp\\Controllers\\MovieController.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwB8AAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T09:44:10.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\Views\\Watchlist\\Index.cshtml",
-              "RelativeDocumentMoniker": "CinemaApp\\Views\\Watchlist\\Index.cshtml",
-              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\Views\\Watchlist\\Index.cshtml",
-              "RelativeToolTip": "CinemaApp\\Views\\Watchlist\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-14T10:42:19.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "WatchlistController.cs",
-              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\Controllers\\WatchlistController.cs",
-              "RelativeDocumentMoniker": "CinemaApp\\Controllers\\WatchlistController.cs",
-              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\Controllers\\WatchlistController.cs",
-              "RelativeToolTip": "CinemaApp\\Controllers\\WatchlistController.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAiwF8AAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T09:44:13.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\Views\\Movie\\Add.cshtml",
-              "RelativeDocumentMoniker": "CinemaApp\\Views\\Movie\\Add.cshtml",
-              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\Views\\Movie\\Add.cshtml",
-              "RelativeToolTip": "CinemaApp\\Views\\Movie\\Add.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-14T11:15:37.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\Views\\Movie\\Delete.cshtml",
-              "RelativeDocumentMoniker": "CinemaApp\\Views\\Movie\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\Views\\Movie\\Delete.cshtml",
-              "RelativeToolTip": "CinemaApp\\Views\\Movie\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-14T11:15:34.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IWatchlistService.cs",
-              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Services.Core\\Interfaces\\IWatchlistService.cs",
-              "RelativeDocumentMoniker": "CinemaApp.Services.Core\\Interfaces\\IWatchlistService.cs",
-              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Services.Core\\Interfaces\\IWatchlistService.cs",
-              "RelativeToolTip": "CinemaApp.Services.Core\\Interfaces\\IWatchlistService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T09:25:44.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\Views\\Movie\\Details.cshtml",
-              "RelativeDocumentMoniker": "CinemaApp\\Views\\Movie\\Details.cshtml",
-              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\Views\\Movie\\Details.cshtml",
-              "RelativeToolTip": "CinemaApp\\Views\\Movie\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-14T09:53:35.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\Program.cs",
               "RelativeDocumentMoniker": "CinemaApp\\Program.cs",
               "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\Program.cs",
               "RelativeToolTip": "CinemaApp\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCgAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCoAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T10:11:23.013Z",
+              "WhenOpened": "2025-07-03T17:45:27.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 4,
+              "Title": "WatchlistRepository.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Data\\Repository\\WatchlistRepository.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Data\\Repository\\WatchlistRepository.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Data\\Repository\\WatchlistRepository.cs",
+              "RelativeToolTip": "CinemaApp.Data\\Repository\\WatchlistRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:36:23.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Data\\Repository\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Data\\Repository\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Data\\Repository\\MovieRepository.cs",
+              "RelativeToolTip": "CinemaApp.Data\\Repository\\MovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:32:31.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IWatchlistRepository.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Data\\Repository\\Interfaces\\IWatchlistRepository.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Data\\Repository\\Interfaces\\IWatchlistRepository.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Data\\Repository\\Interfaces\\IWatchlistRepository.cs",
+              "RelativeToolTip": "CinemaApp.Data\\Repository\\Interfaces\\IWatchlistRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:27:50.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Data\\Repository\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Data\\Repository\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Data\\Repository\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "CinemaApp.Data\\Repository\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T15:10:16.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAsyncRepository.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Data\\Repository\\Interfaces\\IAsyncRepository.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Data\\Repository\\Interfaces\\IAsyncRepository.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Data\\Repository\\Interfaces\\IAsyncRepository.cs",
+              "RelativeToolTip": "CinemaApp.Data\\Repository\\Interfaces\\IAsyncRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:06:12.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Data\\Repository\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Data\\Repository\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Data\\Repository\\BaseRepository.cs",
+              "RelativeToolTip": "CinemaApp.Data\\Repository\\BaseRepository.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAAAMAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T15:52:55.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Data\\Repository\\Interfaces\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Data\\Repository\\Interfaces\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Data\\Repository\\Interfaces\\IMovieRepository.cs",
+              "RelativeToolTip": "CinemaApp.Data\\Repository\\Interfaces\\IMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:26:50.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExceptionMessages.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Data.Common\\ExceptionMessages.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Data.Common\\ExceptionMessages.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Data.Common\\ExceptionMessages.cs",
+              "RelativeToolTip": "CinemaApp.Data.Common\\ExceptionMessages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:07:35.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "BaseController.cs",
               "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\Controllers\\BaseController.cs",
               "RelativeDocumentMoniker": "CinemaApp\\Controllers\\BaseController.cs",
               "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\Controllers\\BaseController.cs",
               "RelativeToolTip": "CinemaApp\\Controllers\\BaseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T09:42:38.392Z",
+              "WhenOpened": "2025-07-02T13:48:48.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "CinemaApp\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "CinemaApp\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:12:16.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Services.Core\\MovieService.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Services.Core\\MovieService.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Services.Core\\MovieService.cs",
+              "RelativeToolTip": "CinemaApp.Services.Core\\MovieService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:09:23.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationConstants.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.GCommon\\ApplicationConstants.cs",
+              "RelativeDocumentMoniker": "CinemaApp.GCommon\\ApplicationConstants.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.GCommon\\ApplicationConstants.cs",
+              "RelativeToolTip": "CinemaApp.GCommon\\ApplicationConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:03:20.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "CinemaApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "CinemaApp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Title": "CinemaApp.GCommon.csproj",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.GCommon\\CinemaApp.GCommon.csproj",
+              "RelativeDocumentMoniker": "CinemaApp.GCommon\\CinemaApp.GCommon.csproj",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.GCommon\\CinemaApp.GCommon.csproj",
+              "RelativeToolTip": "CinemaApp.GCommon\\CinemaApp.GCommon.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-02T13:03:17.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MovieFormInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Web.ViewModels\\Movie\\MovieFormInputModel.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Web.ViewModels\\Movie\\MovieFormInputModel.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Web.ViewModels\\Movie\\MovieFormInputModel.cs",
+              "RelativeToolTip": "CinemaApp.Web.ViewModels\\Movie\\MovieFormInputModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T09:44:03.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T13:01:09.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Services.Core\\Interfaces\\IMovieService.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Services.Core\\Interfaces\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp.Services.Core\\Interfaces\\IMovieService.cs",
+              "RelativeToolTip": "CinemaApp.Services.Core\\Interfaces\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:57:01.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "CinemaApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "CinemaApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T05:33:08.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CinemaApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CinemaApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T05:32:48.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CinemaApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CinemaApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T05:32:35.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "CinemaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "CinemaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAO8PAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-15T05:30:27.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "CinemaApp\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "CinemaApp\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-15T05:30:17.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "cinema-panoramic-megeve.jpg - Bitmap [1920x1280, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\wwwroot\\images\\cinema-panoramic-megeve.jpg",
+              "RelativeDocumentMoniker": "CinemaApp\\wwwroot\\images\\cinema-panoramic-megeve.jpg",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SoftUni\\Web\\ASP.NET core introduction\\CinemaApp2025\\CinemaApp\\wwwroot\\images\\cinema-panoramic-megeve.jpg - Bitmap [1920x1280, 24 bit, JPG]",
+              "RelativeToolTip": "CinemaApp\\wwwroot\\images\\cinema-panoramic-megeve.jpg - Bitmap [1920x1280, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-15T05:30:11.242Z",
+              "EditorCaption": " - Bitmap [1920x1280, 24 bit, JPG]"
             }
           ]
         }
