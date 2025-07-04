@@ -19,11 +19,11 @@ namespace CinemaApp.Services.Core
     {
         private readonly IMovieRepository movieRepository;
 
+
         public MovieService(IMovieRepository movieRepository)
         {
             this.movieRepository = movieRepository;
         }
-
       
 
         public async Task<IEnumerable<AllMoviesIndexViewModel>> GetAllMoviesAsync()
@@ -102,6 +102,7 @@ namespace CinemaApp.Services.Core
         public async Task<bool> EditMovieAsync(MovieFormInputModel inputModel)
         {
             Movie? editableMovie = await this.FindMovieByStringId(inputModel.Id);
+
             bool result = false;
             if (editableMovie == null)
             {
@@ -174,6 +175,8 @@ namespace CinemaApp.Services.Core
         {
             bool result = false;
             Movie? movieToDelete = await this.FindMovieByStringId(id);
+
+
 
             if (movieToDelete == null)
             {
