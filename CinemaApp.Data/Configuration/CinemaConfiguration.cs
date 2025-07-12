@@ -26,6 +26,12 @@ namespace CinemaApp.Data.Configuration
                 .Property(c => c.IsDeleted)
                 .HasDefaultValue(false);
 
+            entity
+                .HasOne(c => c.Manager)
+                .WithMany(m => m.ManagedCinemas)
+                .HasForeignKey(c => c.ManagerId)
+                .OnDelete(DeleteBehavior.SetNull);
+
 
             // това пропърти създава уникалност между име и локация на дадено кино , за да не се получават повторения
             entity
@@ -34,6 +40,7 @@ namespace CinemaApp.Data.Configuration
 
             entity
                 .HasQueryFilter(c => c.IsDeleted == false);
+
         }
     }
 }

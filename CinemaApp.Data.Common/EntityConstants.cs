@@ -40,9 +40,9 @@ namespace CinemaApp.Data.Common
             /// </summary>
             public const int DirectorNameMaxLength = 100;
 
-            /// <summary>
-            /// Movie Description must be at least 10 characters.
-            /// </summary>
+                /// <summary>
+                /// Movie Description must be at least 10 characters.
+                /// </summary>
             public const int DescriptionMinLength = 10;
 
             /// <summary>
