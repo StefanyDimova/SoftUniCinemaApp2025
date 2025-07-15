@@ -40,11 +40,9 @@ namespace CinemaApp.Data.Configuration
             // Define query filter to hide the ApplicationUserMovie entries referring deleted Movie
             // Solves the problem with relations during delete
             entity
-                .HasQueryFilter(aum => aum.Movie.IsDeleted == false);
+                .HasQueryFilter(aum => aum.Movie.IsDeleted == false &&
+                                       aum.IsDeleted == false);
 
-            // Define query filter to hide the deleted entries in the user Watchlist
-            entity
-                .HasQueryFilter(aum => aum.IsDeleted == false);
         }
     }
 }
