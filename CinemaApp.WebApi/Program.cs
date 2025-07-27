@@ -4,6 +4,8 @@ using CinemaApp.Services.Core.Interfaces;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
+using static CinemaApp.GCommon.ApplicationConstants;
+
 using CinemaApp.Web.Infrastructure.Extensions;
 
 namespace CinemaApp.WebApi
@@ -26,6 +28,18 @@ namespace CinemaApp.WebApi
             builder.Services.AddRepositories(typeof(IMovieRepository).Assembly);
             builder.Services.AddUserDefinedServices(typeof(IMovieService).Assembly);
 
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy(AllowAllDomainsPolicy, policyBuilder =>
+                {
+                    policyBuilder
+                        .WithOrigins("https://localhost:7180")
+                        .AllowAnyMethod()
+                        .AllowAnyHeader()
+                        .AllowCredentials();
+                });
+            });
+
             builder.Services.AddDbContext<CinemaAppDbContext>(options =>
             {
                 options.UseSqlServer(connectionString);
@@ -47,6 +61,7 @@ namespace CinemaApp.WebApi
 
             app.UseHttpsRedirection();
 
+            app.UseCors(AllowAllDomainsPolicy);
             app.UseAuthorization();
 
             app.MapIdentityApi<IdentityUser>();

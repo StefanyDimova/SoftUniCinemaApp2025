@@ -14,5 +14,6 @@ namespace CinemaApp.GCommon
         public const string PriceSqlType = "decimal(18,6)";
         public const string AccessDeniedPath = "/Home/AccessDenied";
         public const string ManagerAuthCookie = "ManagerAuth";
+        public const string AllowAllDomainsPolicy = "AllowAllDomainsDebug";
     }
 }

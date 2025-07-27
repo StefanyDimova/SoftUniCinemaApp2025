@@ -115,5 +115,7 @@ namespace CinemaApp.Services.Core
 
             return result;
         }
+
+
     }
 }
